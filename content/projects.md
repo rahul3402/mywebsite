@@ -25,6 +25,6 @@ here are some of the projects I've worked on:<br>
 
 **Project Euler Problems** - Python<br>
 <div class="custom-style">
-  Programming solutions for the famous Project Euler Problems, which combine Computer Science and Number Theory
+  Programmin solutions for the famous Project Euler Problems, which combine Computer Science and Number Theory
 </div>
 <br><br>
