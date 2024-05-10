@@ -35,6 +35,62 @@ footer.py-10 {
 .decoration-primary-500 {
     font-size: 20px !important;
 }
-.custom-style{
+.project-text{
     font-size: 16px;
+    margin-bottom: 30px;
+}
+.project-list {
+    list-style-type: "-";
+    padding-inline-start: .75em;
+}
+.project-title{
+    font-size: 18px;
+    font-weight: 600;
+}
+.project-tools {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.project-tools span {
+    margin-right: 15px; /* Adds space between the tools */
+    text-decoration: underline;
+}
+.starter-text {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.image {
+    margin-top: 0px !important;
+}
+.project-total {
+    margin-top: 4em !important;
+    width: 100%;
+    display: flex;            /* Enables flexbox layout */
+    align-items: flex-start;  /* Aligns items to the top of the container */
+    justify-content: space-between; /* Distributes space between and around content items */
+    /* border-bottom: .5px solid #6B7280; */
+}
+
+.total-text {
+    flex: 1;                  /* Allows this div to grow and fill the space */
+    margin-left: 50px;            /* Adds some padding around the text */
+}
+
+.project-img {
+    flex: 0 1 300px;          /* Prevents the image div from growing, sets a base width */
+    max-height: 300px;
+}
+
+.images {
+    width: 100%;              /* Ensures the image fills its container */
+    height: fit-content;             /* Maintains the image's aspect ratio */
+    
+}
+
+.max-w-prose {
+    max-width: 100%;
+}
+.pr-desc{
+    text-align: center;
 }

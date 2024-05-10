@@ -16,20 +16,19 @@
 #   weight = 10
 
 [[main]]
-  name = "home"
+  name = "Home"
   pageRef = "/"
   weight = 1
 
 [[main]]
-  name = "projects"
+  name = "Projects"
   pageRef = "projects"
   weight = 2
 
-[[main]]
-  name = "contact me"
-  url = "mailto:rs2394@cornell.edu"
-  
-  weight = 3
+# [[main]]
+#   name = "Contact me"
+#   url = "mailto:rs2394@cornell.edu"
+#   weight = 3
 
 # [[main]]
 #   identifier = "search"
