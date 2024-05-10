@@ -90,7 +90,9 @@ footer.py-10 {
 .project-img {
     flex: 0 1 300px;          /* Prevents the image div from growing, sets a base width */
     max-height: 300px;
+    max-height: 300px;
 }
+
 
 .images {
     width: 100%;              /* Ensures the image fills its container */
