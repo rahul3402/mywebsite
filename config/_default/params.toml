@@ -18,7 +18,7 @@ fingerprintAlgorithm = "sha256"
 
 [author]
   name = "Rahul Singhal"
-  image = "img/website_pfp.jpg"
+  image = "img/website_pfp.png"
   links = [
     { email = "mailto:rs2394@cornell.edu" },
     { linkedin = "https://linkedin.com/in/rahul~singhal/" },
