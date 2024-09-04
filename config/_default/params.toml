@@ -23,7 +23,7 @@ fingerprintAlgorithm = "sha256"
     { email = "mailto:rs2394@cornell.edu" },
     { linkedin = "https://linkedin.com/in/rahul~singhal/" },
     { github = "https://github.com/rahul3402" } ]
-  headline = "I'm a Cornell Master's student studying Computer Science and Philosophy. I want to build high-impact AI systems, and I am open to a wide-range of opportunities that align with my drive for impact. Some of my past experiences include deploying models company-wide to boost efficiency, researching code-generating language models, developing for a medical startup, and training large language models.<br><br> Feel free to reach out at **rs2394@cornell.edu** to chat!"
+  headline = "I'm a Cornell Master's student studying Computer Science and Philosophy. I want to build high-impact AI systems, and I am open to a wide-range of opportunities that align with my drive for impact. Some of my past experiences include deploying custom models company-wide to boost efficiency, researching code-generating language models, developing for a medical startup, and training large language models.<br><br> Feel free to reach out at **rs2394@cornell.edu** to chat!"
   
     
 
