@@ -50,11 +50,15 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Prepare artifact
+        run: |
+          mkdir artifact-root
+          cp -R public/. artifact-root
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: ./public/.
+          path: artifact-root
 
   deploy:
     environment:
