@@ -1,9 +1,9 @@
----
+<!-- ---
 title: "My Projects"
 date: 2024-04-20
 draft: false
----
-<div class="project-total">
+--- -->
+<!-- <div class="project-total">
     <figure class="project-img">
         <img src="/p1.png" alt="Description of image" class="image">
     </figure>
@@ -68,4 +68,4 @@ draft: false
             </ul>
         </div>
     </div>   
-</div>
+</div> -->
