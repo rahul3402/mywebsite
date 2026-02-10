@@ -37,6 +37,4 @@
   </header>
   <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
 </article>
-<section>
-  {{ partial "recent-articles.html" . }}
-</section>
+{{/* Hide recent-articles section so only the single-page content shows. */}}

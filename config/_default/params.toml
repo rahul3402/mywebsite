@@ -22,13 +22,14 @@ fingerprintAlgorithm = "sha256"
   links = [
     { email = "mailto:rahuls3402@gmail.com" },
     { linkedin = "https://linkedin.com/in/rahul3402/" },
+    { twitter = "https://x.com/rahul3426" },
     { github = "https://github.com/rahul3402" } ]
-  headline = "I'm a Cornell Master's student studying Computer Science and Philosophy. I want to build high-impact AI systems, and I am open to a wide-range of opportunities that align with my drive for impact. Some of my past experiences include deploying custom models company-wide to boost efficiency, research on code-generating language models, developing for a medical startup, and training large language models.<br><br> Feel free to reach out at **rahuls3402@gmail.com** to chat!"
+  headline = "I'm a researcher at Distyl AI. Models tend to perform well on evaluations but often fall short in deployment — I'm working to close that gap.<br><br>Some of my past experiences include training an internal LLM to improve company-wide workflows, and research on code-generation models. Feel free to reach out at **rahuls3402@gmail.com** to chat!"
   
     
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  layout = "custom" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
   showTitle = false

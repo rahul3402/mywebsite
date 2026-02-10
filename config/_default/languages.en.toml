@@ -9,7 +9,9 @@ title = "Rahul Singhal"
 [params]
   dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
+  # Explicitly disable main sections so the theme
+  # doesn't auto-generate nav links like "Blog".
+  mainSections = []
   # description = "My awesome website"
 
 

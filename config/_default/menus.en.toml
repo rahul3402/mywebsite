@@ -10,17 +10,17 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+## Main menu entries commented out to keep single-page layout
 
+# [[main]]
+#   name = "About"
+#   pageRef = "/"
+#   weight = 1
 
-[[main]]
-  name = "About"
-  pageRef = "/"
-  weight = 1
-
-[[main]]
-  name = "Blog"
-  pageRef = "blog"
-  weight = 10
+# [[main]]
+#   name = "Blog"
+#   pageRef = "blog"
+#   weight = 10
 
 # [[main]]
 #   name = "Projects"

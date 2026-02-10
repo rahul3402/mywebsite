@@ -1,3 +1,9 @@
+---
+build:
+  render: never
+  list: never
+  publishResources: false
+---
 <!-- ---
 title: "My Projects"
 date: 2024-04-20
