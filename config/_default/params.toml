@@ -24,7 +24,7 @@ fingerprintAlgorithm = "sha256"
     { linkedin = "https://linkedin.com/in/rahul3402/" },
     { twitter = "https://x.com/rahul3426" },
     { github = "https://github.com/rahul3402" } ]
-  headline = "I'm a researcher at Distyl AI. Models tend to perform well on evaluations but often fall short in deployment — I'm working to close that gap.<br><br>Some of my past experiences include training an internal LLM to improve company-wide workflows, and research on code-generation models. Feel free to reach out at **rahuls3402@gmail.com** to chat!"
+  headline = "I'm a researcher at Distyl AI. Models tend to perform well on evaluations but often fall short in deployment — I'm working to close that gap.<br><br>Some of my past experiences include training an internal LLM to improve company-wide workflows, and research on code-generation models. Feel free to reach out to chat!"
   
     
 
